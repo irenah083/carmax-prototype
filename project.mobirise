@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ready.html",
+    "currentPage": "index.html",
     "name": "CarMax",
     "theme": {
       "name": "mobirise3",
@@ -299,7 +299,7 @@
             "showText": true,
             "showButton": true,
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -318,7 +318,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">SHARE LOCATION</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"car-info.html\" data-toolbar=\"-mbrBtnMove\">SHARE LOCATION</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-k"
         }
